@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "510705592944",
+    "firebase_url": "https://espliterbackend.firebaseio.com",
+    "project_id": "espliterbackend",
+    "storage_bucket": "espliterbackend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510705592944:android:6df180a25dba11d8",
+        "android_client_info": {
+          "package_name": "com.example.ammretkhanna.dissertationstart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510705592944-rk13gmdab3b5q9769l3pdm355rqkr383.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ammretkhanna.dissertationstart",
+            "certificate_hash": "77b5436a9bb6193c3f47dc5eb99e900da06f928b"
+          }
+        },
+        {
+          "client_id": "510705592944-rd5ipo3t7qd1gk5lui9lb1k17d35mu7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCijcXhzS_NwGXY3o0-gOqQQySgu4s5K18"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510705592944-rd5ipo3t7qd1gk5lui9lb1k17d35mu7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510705592944:android:76d2454251065c8b",
+        "android_client_info": {
+          "package_name": "com.example.ammretkhanna.espliterbeta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510705592944-45130ehufudlm0v9219i7pjv1oosqj91.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ammretkhanna.espliterbeta",
+            "certificate_hash": "77b5436a9bb6193c3f47dc5eb99e900da06f928b"
+          }
+        },
+        {
+          "client_id": "510705592944-rd5ipo3t7qd1gk5lui9lb1k17d35mu7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCijcXhzS_NwGXY3o0-gOqQQySgu4s5K18"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510705592944-rd5ipo3t7qd1gk5lui9lb1k17d35mu7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
